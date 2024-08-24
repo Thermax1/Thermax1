@@ -1,16 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony Munoz
 =====================================================================================================================================
 
-Software Engineer
+Cybersecurity Analyst
 -----------------
 
-I'm currently a Master's student, getting my degree in Computer Science. My long term goal is to be a successful Software Engineer that can make an impact in the workplace and have a fun time along the way! My current interests are web development. The ability to imagine something and just... create it into existence is a powerful feeling.
+I am a cyber professional with a graduate degree in Computer Science and GIAC certified. My long term goal is to be a successful member of the cyber community that can make an impact in the workplace and have a fun time along the way! My current interests include incident response, general IT topics, and loving my family
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [a.d.munoz23@gmail.com](mailto:a.d.munoz23@gmail.com)
-* 🧠  I'm learning React and Web Development in genreal
-* 🤝  I'm open to collaborating on Open-Source projects
-* ⚡  I'm here to learn and collaborate with my fellow developers!
 
 ### Skills
 
